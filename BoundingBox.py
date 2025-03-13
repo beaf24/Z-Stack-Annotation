@@ -1,7 +1,7 @@
 """
 Image Annotator
-
 by Amir Kardoost and Beatriz Fernandes
+October 2024
 """
 
 from PyQt5.QtWidgets import QGraphicsRectItem
