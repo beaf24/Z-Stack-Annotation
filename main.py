@@ -1,3 +1,9 @@
+"""
+Image Annotator
+by Amir Kardoost and Beatriz Fernandes
+October 2024
+"""
+
 # This Python file uses the following encoding: utf-8
 import sys
 from PyQt5 import QtWidgets
