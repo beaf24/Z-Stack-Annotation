@@ -1,3 +1,9 @@
+"""
+Image Annotator
+by Amir Kardoost and Beatriz Fernandes
+October 2024
+"""
+
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'mainwindow.ui'
