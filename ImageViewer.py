@@ -1,3 +1,9 @@
+"""
+Image Annotator
+by Amir Kardoost and Beatriz Fernandes
+October 2024
+"""
+
 from PyQt5.QtWidgets import QGraphicsView
 from PyQt5.QtCore import Qt, QRectF
 from PyQt5.QtGui import QPen
