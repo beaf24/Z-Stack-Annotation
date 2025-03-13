@@ -28,3 +28,9 @@ Predictions for marker presence are overly simplistic. The threshold-based metho
 - Improve semi-automatic marker prediction
 - Include prediction model in the GUI
 - Multipurpose interface
+
+## Author Notes
+
+This work is part of a larger Master's thesis project: https://fenix.tecnico.ulisboa.pt/cursos/mebiom21/dissertacao/1409728525633583 .
+The tool demonstrated was developed in collaboration with the Helmholtz Munich and the code cannot be fully disclosed. 
+
